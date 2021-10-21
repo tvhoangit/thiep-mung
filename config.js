@@ -1,6 +1,6 @@
 const nameGirl = 'Lê Hồng Ngọc';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 20-10';
+const eventName = 'Chúc Lê Hồng Ngọc có ngày thiệt đẹp hehe';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc honey của anh có một ngày tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay, những ngày sau và sớm có được anh';
 
